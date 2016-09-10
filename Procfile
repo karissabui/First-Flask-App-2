@@ -1,2 +1,2 @@
 heroku ps:scale web=1
-web: python hllo_app.py
+web: python hello_app.py
